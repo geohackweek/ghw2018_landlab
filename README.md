@@ -21,7 +21,7 @@ We are developing a framework for research software development that applies to 
 
 _Github_  - describe why, how
 
-_HydroShare 
+_HydroShare_  This JupyterHub is one way to launch
 
 _Landlab_
 
