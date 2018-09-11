@@ -1,4 +1,5 @@
-# Project Title: 
+# Project Title: Advanced Geo-spatial-temporal research software curriculum: Developing Landlab Modules to teach open source methods
+
 [Paragraph describing the need and benefits to open source research software education in earth sciences]
 
 Application Example and Motivation
@@ -17,17 +18,26 @@ The repository contains curriculum developed for geo-spatio-temporal analysis us
 We are developing a framework for research software development that applies to a range of examples usable in the classroom. 
 
 ### Common Workflow Tools
+
 _Github_  - describe why, how
+
 _HydroShare 
+
 _Landlab_
+
 _JupyterNotebooks_
+
 _UserExperience_
+
 _Formal Publication_
+
 _Distribution Channel Strategies_
+
 _Component based software design_
+
 _Contribute to an Open Source Project_
 
-## Modules
+## 2. Modules
 Each modules uses common workflow tools that we share developing, using and teaching each other.  Each module uses existing open source code and explores advancing this code with at least one new component. 
 
 ### Steven's Module
