@@ -49,7 +49,7 @@ Link to Landlab Tutorials
 
 ###  Rose's Module
 
-
+Detect blue whales!
 
 ### Christina's Modules
 
