@@ -41,11 +41,9 @@ _Contribute to an Open Source Project_
 Each modules uses common workflow tools that we share developing, using and teaching each other.  Each module uses existing open source code and explores advancing this code with at least one new component. 
 
 ### Steven's Module
-Intro
-User Audience
-Science Topic
-Link to Repo maintained at personal Github
-Link to Landlab Tutorials
+This project is a modification of a Landlab tutorial illustrating use of Python and Jupyter for landslide hazard estimation.  It uses factors feeding into the infinite slope factor of safety equation, which predicts the ratio of stabilizing to destabilizing forces on a hillslope plane. The properties are assumed to represent an infinte plane, neglecting the boundary conditions around the landslide location.  The Jupyter notebook, which is hosted and runs on Hydroshare, is a Monte Carlo simulation for the Fisher Creek watershed in the North Cascades; the exercise is adapted from work by Stauch et al. (https://www.hydroshare.org/resource/a5b52c0e1493401a815f4e77b09d352b/).
+
+The goal is/was to explore possible teaching resources for graduate level students in the Department of Earth and Space Sciences, many of whom conduct research on landslide hazards in western Washington.  The open source geospatial analysis and modeling tools afforded through Python (and ease of their teaching and use through Jupyter notebooks) is extremely valuable.
 
 ###  Rose's Module
 
