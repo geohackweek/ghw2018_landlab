@@ -59,7 +59,17 @@ Here is another line!
 
 ### Helen Xarray Module
 
+Tutorial link:https://github.com/hydrogeohc/Xarray
 
+Extra file in and out function by using Xarray.
+
+Load time series Geotiff raster files
+
+Create Xarray data structure 
+
+Save it as netCDF files format
+
+Export the point of interest for this netCDF file
 
 
 
