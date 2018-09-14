@@ -47,8 +47,25 @@ The goal is/was to explore possible teaching resources for graduate level studen
 
 ###  Rose's Module
 
-Detect blue whales! Let's try to merge again... 
-Here is another line!
+I wrote a tutorial on how to use spectrogram cross-correlation to detect blue whale calls as my final project for Geohackweek 2018 at the University of Washington. This tutorial is meant primarily for individuals with at least an introductory understanding of Python to familiarize themselves with the one of the processes used in acoustic signal detection. 
+
+**Workflow tools in the tutorial:**
+
+-Python: Numpy, Scipy, and Matplotlib libraries
+
+-Jupyter notebook
+
+-Github
+
+**Key tutorial outcomes:**
+
+-Experimentation with key scientific python libraries
+
+-Introduction to timeseries analysis
+
+-Familiarization with spectrograms
+
+-Understand basic reasoning behind signal detection
 
 
 ### Christina's Modules
