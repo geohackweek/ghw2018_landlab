@@ -87,6 +87,7 @@ Export the point of interest for this netCDF file
 ### Christina's Modules
 
 [Background on the model grid data model used in Landlab](https://nbviewer.jupyter.org/github/landlab/tutorials/blob/master/grid_object_demo/grid_object_demo.ipynb)
+
 [Teach yourself Landlab](https://github.com/landlab/landlab/wiki/Teach-Yourself-Landlab!)
 
 Test the Modules from this HydroShare Resource (requires HydroShare UserID to use the cloud compute resources to run interactive models from CUAHSI JupyterHub). 
