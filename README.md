@@ -93,7 +93,7 @@ Export the point of interest for this netCDF file
 Test the Modules from this HydroShare Resource (requires HydroShare UserID to use the cloud compute resources to run interactive models from CUAHSI JupyterHub). 
 [Lowering the barriers to Computational Modeling of the Earth Surface](https://www.hydroshare.org/resource/70b977e22af544f8a7e5a803935c329c/)
 
-Go to Collaborate. Search for the Landlab Group. Join. Go to Resources. 
+Sign in/Sign up at www.hydroshare.org. Go to Collaborate. Search for the Landlab Group. Join. Go to Resources. 
 
 Click on the resource above. Use blue upper right button to 'OPEN WITH'. Select JupyterHub. 
 
