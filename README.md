@@ -11,6 +11,13 @@ Sample Application and Rubric
 Specific Questions (breaking up of the project task)
 The project contains two main parts: designing the framework for new modules and development of individual modules 
 
+Landlab Background Links:
+
+[Background on the model grid data model used in Landlab](https://nbviewer.jupyter.org/github/landlab/tutorials/blob/master/grid_object_demo/grid_object_demo.ipynb)
+
+[Teach yourself Landlab](https://github.com/landlab/landlab/wiki/Teach-Yourself-Landlab!)
+
+
 ## 1. The Framework
 The repository contains curriculum developed for geo-spatio-temporal analysis using open source research software.
 
