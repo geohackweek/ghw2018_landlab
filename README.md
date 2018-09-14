@@ -67,6 +67,8 @@ I wrote a tutorial on how to use spectrogram cross-correlation to detect blue wh
 
 -Understand basic reasoning behind signal detection
 
+**Link to the tutorial github repository:** https://github.com/rosehilmo/whale-detection 
+
 
 ### Christina's Modules
 
