@@ -52,6 +52,9 @@ This project is a modification of a Landlab tutorial illustrating use of Python 
 
 The goal is/was to explore possible teaching resources for graduate level students in the Department of Earth and Space Sciences, many of whom conduct research on landslide hazards in western Washington.  The open source geospatial analysis and modeling tools afforded through Python (and ease of their teaching and use through Jupyter notebooks) is extremely valuable.
 
+**Link to the tutorial github repository:** https://github.com/swalt826/Landlab---Landslide-Hazards 
+
+
 ###  Rose's Module
 
 This tutorial is an introduction on how to use spectrogram cross-correlation to detect blue whale calls. This tutorial is meant primarily for individuals with at least an introductory understanding of Python to familiarize themselves with the one of the processes used in acoustic signal detection. 
