@@ -70,10 +70,6 @@ This tutorial is an introduction on how to use spectrogram cross-correlation to 
 **Link to the tutorial github repository:** https://github.com/rosehilmo/whale-detection 
 
 
-### Christina's Modules
-
-
-
 ### Helen Xarray Module
 
 Tutorial link:https://github.com/hydrogeohc/Xarray
@@ -88,6 +84,18 @@ Save it as netCDF files format
 
 Export the point of interest for this netCDF file
 
+### Christina's Modules
 
+[Background on the model grid data model used in Landlab](https://nbviewer.jupyter.org/github/landlab/tutorials/blob/master/grid_object_demo/grid_object_demo.ipynb)
+[Teach yourself Landlab](https://github.com/landlab/landlab/wiki/Teach-Yourself-Landlab!)
+
+Test the Modules from this HydroShare Resource (requires HydroShare UserID to use the cloud compute resources to run interactive models from CUAHSI JupyterHub). 
+[Lowering the barriers to Computational Modeling of the Earth Surface](https://www.hydroshare.org/resource/70b977e22af544f8a7e5a803935c329c/)
+
+Go to Collaborate. Search for the Landlab Group. Join. Go to Resources. 
+
+Click on the resource above. Use blue upper right button to 'OPEN WITH'. Select JupyterHub. 
+
+Execute Welcome to connect to HydroShare. Click on Jupyter Notebook of interest.  
 
 
